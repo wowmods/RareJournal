@@ -1,0 +1,8 @@
+## Interface: 60300
+## Title: Rare Journal
+## Notes:  Show Rare and RareElite Info
+## Secure: 1
+## Author: wowmods
+## Version: 1.0
+## LoadOnDemand: 1
+Blizzard_EncounterJournal.xml
