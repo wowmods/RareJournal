@@ -5,4 +5,4 @@
 ## Author: wowmods
 ## Version: 1.0
 ## LoadOnDemand: 1
-Blizzard_EncounterJournal.xml
+RareJournal.xml
